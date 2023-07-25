@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ProblemThreeMergeSortedCollectionsSpec, org.scalatest.tools.Framework$$anon$1@47895f6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ProblemOneMergeSortedIntListsSpec, org.scalatest.tools.Framework$$anon$1@47895f6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ProblemTwoMergeSortedListsSpec, org.scalatest.tools.Framework$$anon$1@47895f6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProblemTwoMergeSortedListsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmergeSortedLists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two sorted lists of Users correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two empty lists correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge an empty list with a non-empty list correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge a non-empty list with an empty list correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two sorted lists with duplicate elements correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProblemThreeMergeSortedCollectionsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmergeSorted[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two lists and return a sorted list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two vectors and return a sorted vector[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two options and return the smaller one[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two backwards lists and return a sorted backwards list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProblemOneMergeSortedIntListsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmergeSortedIntLists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two sorted lists into a sorted one[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two sorted lists of different sizes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two sorted lists with duplicate elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge an empty list with a non-empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should merge two empty lists into an empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not cause StackOverflowError with large input lists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 335 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProblemTwoMergeSortedListsSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProblemThreeMergeSortedCollectionsSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProblemOneMergeSortedIntListsSpec[0m
