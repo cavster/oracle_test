@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/colmm/Projects/Oracle/src/test/scala/ProblemFourTakeN.scala:21:40: value defaultManaged is not a member of object zio.test.TestExecutor[0m
+[0m[[0m[31merror[0m] [0m[0mError occurred in an application involving default arguments.[0m
+[0m[[0m[31merror[0m] [0m[0m  val runner = TestRunner(TestExecutor.defaultManaged)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
